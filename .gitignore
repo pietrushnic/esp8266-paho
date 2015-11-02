@@ -1,0 +1,12 @@
+*~
+*#
+.#*
+GPATH
+GRTAGS
+GTAGS
+build
+firmware
+.gdb_history
+local.mk
+local.h
+screenlog.*
